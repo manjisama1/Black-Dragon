@@ -14,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94786802371'] //ur owner number
-global.ownername = "Nimesh Official" //ur owner name
-global.ytname = "YT: HELA CLOUD" //ur yt chanel name
-global.socialm = "GitHub: nimaofficial" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.owner = ['919862717507'] //ur owner number
+global.ownername = "Manji San" //ur owner name
+global.ytname = "YT: manji_sama_" //ur yt chanel name
+global.socialm = "GitHub: nah i won' tell u" //ur github or insta name
+global.location = "India, Tripura, Northeast" //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.helacloud.ga" //ur website to be displayed
-global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
-global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.ownernomer = "919862717507"//ur number
+global.premium = ['919862717507'] //ur premium number
+global.botname = '🅜𝗮𝗻𝗷𝗶 𝗕𝗼𝘁' //ur bot name
+global.linkz = "https://instagram.com/manji_sama__?igshid=Yzg5MTU1MDY=" //your theme url which will be displayed on whatsapp
+global.websitex = "https://instagram.com/manji_sama__?igshid=Yzg5MTU1MDY=" //ur website to be displayed
+global.botscript = 'none' //script link
+global.themeemoji = "🐧" //ur theme emoji
+global.packname = "🅜𝗮𝗻𝗷𝗶 𝗦𝗮𝗺𝗮" //ur sticker watermark packname
+global.author = "Manji San" //ur sticker watermark author
+global.wm = "🅜𝗮𝗻𝗷𝗶 𝗦𝗮𝗺𝗮" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -39,26 +39,26 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'Here you go!',
+    success: 'Uff,,Here you go!',
     admin: 'This feature could be used by admins only!',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
+    owner: 'This feature could be used by 🅜𝗮𝗻𝗷𝗶 𝗦𝗮𝗺𝗮',
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
     wait: 'Please with...',
-    wal: 'ටිකක් හිටහන් බඩු මග එන ගමන්',
+    wal: 'Chhotto matte',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate (pervert)',
 }
 
 //media target
-global.thum = fs.readFileSync("./DragonMedia/theme/dragonpic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./DragonMedia/theme/dragonpic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./DragonMedia/theme/dragonpic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./DragonMedia/theme/dragonpic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.imgur.com/PMY08kz.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.imgur.com/PMY08kz.jpg") //ur logo pic
+global.err4r = fs.readFileSync("https://i.imgur.com/PMY08kz.jpg") //ur error pic
+global.thumb = fs.readFileSync("https://i.imgur.com/PMY08kz.jpg") //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
